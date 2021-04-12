@@ -40,7 +40,7 @@
 <hr/>
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=subhamrex&show_icons=true&hide_border=true&hide=stars,contribs,prs,issues&theme=tokyonight" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=subhamrex&show_icons=true&hide_border=true&hide=stars,contribs,prs,issues&theme=radical" />
 </details>
 
 [myprofile]:https://github.com/subhamrex
