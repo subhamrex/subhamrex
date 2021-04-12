@@ -43,6 +43,13 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=subhamrex&show_icons=true&hide_border=true&hide=stars,contribs,prs,issues&theme=radical" />
 </details>
 
+### 💳 Language Card
+
+<img align="center" alt="subhamrex's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamrex&&layout=compact&&theme=tokyonight" />
+
+<br />
+
+
 [myprofile]:https://github.com/subhamrex
 [website]: http://www.kalihackz.tech:443/Rex
 [facebook]: https://www.facebook.com/subham.kundu.7169
