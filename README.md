@@ -8,8 +8,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.<br />
 - ⚡ Fun fact: I love to draw Anime character and watch Anime.
 <br/>
-<br/>
-
 <hr/>
 
 ### 🧧 Connect with me:
@@ -18,7 +16,6 @@
 [<img align="left" alt="subhamrex | Twitter" width="25px" src="http://pngimg.com/uploads/twitter/twitter_PNG29.png" />][twitter]
 [<img align="left" alt="subhamrex | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" />][linkedin]
 [<img align="left" alt="subhamrex | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][instagram]
-
 <br />
 <hr/>
 
