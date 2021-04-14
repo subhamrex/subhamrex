@@ -27,7 +27,7 @@
 [<img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][myprofile]
 <br/>
 
-[<img align="left" alt="Sass" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][myprofile]
+[<img align="left" alt="SQL" width="33px" src="https://camo.githubusercontent.com/b65f9026a0274fb351e57ed757a7c01e2538734b2278c067b5d6ca4650a6e4ce/68747470733a2f2f6c6162732e6d7973716c2e636f6d2f636f6d6d6f6e2f6c6f676f732f6d7973716c2d6c6f676f2e737667" />][myprofile]
 [<img align="left" alt="React" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][myprofile]
 [<img align="left" alt="Node.JS" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][myprofile]
 <br />
