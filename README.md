@@ -1,4 +1,4 @@
-### Hi, I am Subham 👋
+### Hi, I am Subham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <hr />
 
 ### I am a Full-stack Web Developer and Machine Learning enthusiast.
