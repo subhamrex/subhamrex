@@ -37,6 +37,14 @@
 [<img align="left" alt="Pycharm" width="33px" src="https://i.imgur.com/N3UnDaG.png" />][myprofile]
 
 <br />
+
+[<img align="left" alt="OpenCV" width="33px" src="https://i.imgur.com/xFMyVyV.png" />][myprofile]
+[<img align="left" alt="Typescript" width="33px" src="https://i.imgur.com/6md14Ny.png" />][myprofile]
+[<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />][myprofile]
+
+<br/>
+
+
 <hr/>
 
 ### 💳 Language Card
