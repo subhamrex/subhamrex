@@ -60,6 +60,8 @@
 
 <br />
 
+[<img align="right" style="padding-top:20px" src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][myprofile]
+
 <hr/>
 
 ### 💳 Language Card
