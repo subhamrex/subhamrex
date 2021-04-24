@@ -1,5 +1,5 @@
 ### Hi, I am Subham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-[<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="250">][myprofile]
+[<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">][myprofile]
 <hr/>
 
 ### I am a Full-stack Web Developer and Machine Learning enthusiast.
@@ -11,7 +11,7 @@
 <br/>
 <hr/>
 
-[<img align="right" src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="250">][myprofile]
+[<img align="right" src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="280">][myprofile]
 
 ### 🧧 Connect with me:
 [<img align="left" alt="subhamrex" width="25px" src="http://pngimg.com/uploads/globe/globe_PNG100096.png" />][website]
