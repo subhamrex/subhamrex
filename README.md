@@ -42,6 +42,11 @@
 [<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />][myprofile]
 <br/>
 
+[<img align="left" alt="TF" width="33px" src="https://i.imgur.com/oGwE8PR.png" />][myprofile]
+[<img align="left" alt="Dj" width="33px" src="https://i.imgur.com/MN64nNM.png" />][myprofile]
+[<img align="left" alt="Flask" width="33px" src="https://i.imgur.com/0Gs9Vqu.png" />][myprofile]
+<br/>
+
 
 <hr/>
 
