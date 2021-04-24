@@ -11,7 +11,7 @@
 <br/>
 <hr/>
 
-[<img align="right" style="padding-top:20px" src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="280">][myprofile]
+
 
 ### 🧧 Connect with me:
 [<img align="left" alt="subhamrex" width="25px" src="http://pngimg.com/uploads/globe/globe_PNG100096.png" />][website]
@@ -21,7 +21,11 @@
 [<img align="left" alt="subhamrex | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][instagram]
 <br />
 
+[<img align="right" style="padding-top:20px" src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="280">][myprofile]
+
+
 <hr/>
+
 
 ### ⚙ Languages and Tools:
 
