@@ -21,7 +21,7 @@
 [<img align="left" alt="subhamrex | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][instagram]
 <br />
 
-[<img align="right" style="padding-top:20px" src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="280">][myprofile]
+[<img align="right"  src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="280">][myprofile]
 
 
 <hr/>
@@ -60,7 +60,7 @@
 
 <br />
 
-[<img align="right" style="padding-top:20px" src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][myprofile]
+[<img align="right"  src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][myprofile]
 
 <hr/>
 
