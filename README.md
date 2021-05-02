@@ -56,7 +56,7 @@
 <br/>
 [<img align="left" alt="Notepad++" width="33px" src="https://i.imgur.com/s8PYCpN.png" />][myprofile]
 [<img align="left" alt="gitbash" width="33px" src="https://i.imgur.com/FgD2Tpt.png" />][myprofile]
-[<img align="left" alt="postman" width="33px" src="https://i.imgur.com/YulSzZi.png" />][myprofile]
+[<img align="left" alt="Mediapipe" width="33px" src="https://i.imgur.com/BdWJk0i.png" />][myprofile]
 
 <br />
 
