@@ -54,7 +54,7 @@
 [<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />][jupyter]
 <br/>
 <br/>
-[<img align="left" alt="Notepad++" width="33px" src="https://i.imgur.com/s8PYCpN.png" />][nodepad++]
+[<img align="left" alt="Notepad++" width="33px" src="https://i.imgur.com/s8PYCpN.png" />][notepad++]
 [<img align="left" alt="gitbash" width="33px" src="https://i.imgur.com/FgD2Tpt.png" />][git]
 [<img align="left" alt="Mediapipe" width="33px" src="https://i.imgur.com/BdWJk0i.png" />][mediapipe]
 
