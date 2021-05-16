@@ -60,7 +60,7 @@
 
 <br />
 
-[<img align="left" alt="Docker" width="33px" src="https://i.imgur.com/dIUjOjg.png" />][Docker]
+[<img align="left" alt="R" width="33px" src="https://i.imgur.com/C5TOAni.jpg" />][R]
 [<img align="left" alt="PowerBI" width="33px" src="https://i.imgur.com/uDWUWAY.png" />][PowerBI]
 [<img align="left" alt="anaconda" width="33px" src="https://i.imgur.com/SUxYIXm.png" />][anaconda]
 
@@ -88,7 +88,7 @@
 [myprofile]:https://github.com/subhamrex
 [anaconda]:https://www.anaconda.com/
 [PowerBI]:https://powerbi.microsoft.com/en-us/
-[Docker]:https://www.docker.com/
+[R]:https://www.r-project.org/
 [vscode]:https://code.visualstudio.com/
 [jupyter]:https://jupyter.org/
 [pycharm]:https://www.jetbrains.com/pycharm/
