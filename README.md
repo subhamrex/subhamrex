@@ -60,7 +60,7 @@
 
 <br />
 
-[<img align="left" alt="R" width="33px" src="https://i.imgur.com/C5TOAni.jpg" />][R]
+[<img align="left" alt="R" width="33px" src="https://i.imgur.com/LGgB5r4.png" />][R]
 [<img align="left" alt="PowerBI" width="33px" src="https://i.imgur.com/uDWUWAY.png" />][PowerBI]
 [<img align="left" alt="anaconda" width="33px" src="https://i.imgur.com/SUxYIXm.png" />][anaconda]
 
