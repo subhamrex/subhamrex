@@ -2,7 +2,7 @@
 [<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">][myprofile]
 <hr/>
 
-### I am a Full-stack Machine Learning expert and Web Developer.
+### I am a Self-learnt Full-stack Machine Learning expert and Web Developer. Currently I am a Data Engineer in AMAT.
 - 🔭 I just tried to make a readme file for my github account.<br />
 - 🌱 I’m currently learning Machine Learning and React.<br />
 - 👯 I’m wanting to create more awesome projects.<br />
